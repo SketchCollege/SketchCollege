@@ -1,7 +1,7 @@
 # Biography
 I'm Professional Developer and UI & UX Designer.
 
-# Social
+# Social Links
 [YouTube](https://www.youtube.com/@SketchCollege) • 
 [Email](mailto:sketchcollege@gmail.com?subject=Contact%20-%20GitHub%20&body=Hi%2C%20I'm%20) • 
 [Sketchub](https://web.sketchub.in/u/SketchCollege)
